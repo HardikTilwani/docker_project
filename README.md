@@ -1,7 +1,10 @@
-# docker_project
-# IIEC RISE 1.0
-# DOCKER TRAINING - BY "MR. VIMAL DAGA" 
-# MAKING INDIA FUTURE READY
+_docker_project_
+
+_IIEC RISE 1.0_ - _RISE 2020.40.2.5_
+
+_DOCKER TRAINING - BY "MR. VIMAL DAGA"_ 
+
+_MAKING INDIA FUTURE READY_
 
 ==> " Part of Journey is the End " .
 
